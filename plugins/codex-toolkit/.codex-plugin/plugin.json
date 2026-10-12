@@ -1,0 +1,14 @@
+{
+  "name": "codex-toolkit",
+  "version": "0.1.0",
+  "description": "Project workflows for developing, reviewing, documenting, and releasing Codex App.",
+  "author": {
+    "name": "Ethicco"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Toolkit",
+    "shortDescription": "Codex App development workflows",
+    "longDescription": "Project-specific skills for Go backend, Next.js frontend, code review, OpenAPI, commits, and standup updates."
+  }
+}

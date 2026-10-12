@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "codex-toolkit",
+  "version": "0.1.0",
+  "description": "Project workflows for developing, reviewing, documenting, and releasing Codex App."
+}

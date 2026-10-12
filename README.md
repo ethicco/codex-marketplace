@@ -1,10 +1,10 @@
-# Uptime Toolkit Marketplace
+# Codex Marketplace
 
-Локальный marketplace агентских плагинов. В нём доступен `uptime-toolkit` — набор рабочих процессов для разработки, ревью, документации и релизов Uptime App.
+Локальный marketplace агентских плагинов. В нём доступен `codex-toolkit` — набор рабочих процессов для разработки, ревью, документации и релизов Codex App.
 
 ## Состав
 
-- `plugins/uptime-toolkit` — исходный пакет плагина и его skills.
+- `plugins/codex-toolkit` — исходный пакет плагина и его skills.
 - `.agents/plugins/marketplace.json` — манифест marketplace, регистрирующий пакет по переносимому относительному пути.
 
 ## Подключение
