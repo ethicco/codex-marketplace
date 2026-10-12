@@ -1,0 +1,14 @@
+{
+  "name": "uptime-toolkit",
+  "version": "0.1.0",
+  "description": "Project workflows for developing, reviewing, documenting, and releasing Uptime App.",
+  "author": {
+    "name": "Uptime App"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Uptime Toolkit",
+    "shortDescription": "Uptime App development workflows",
+    "longDescription": "Project-specific skills for Go backend, Next.js frontend, code review, OpenAPI, commits, and standup updates."
+  }
+}

@@ -1,0 +1,4 @@
+.DS_Store
+
+# Local editor and agent state
+.agents/cache/

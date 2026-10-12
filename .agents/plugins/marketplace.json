@@ -1,0 +1,20 @@
+{
+  "name": "codex-ethicco-marketplace",
+  "interface": {
+    "displayName": "Codex ethicco Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "dev-toolkit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/uptime-toolkit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
